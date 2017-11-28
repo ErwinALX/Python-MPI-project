@@ -1,0 +1,1199 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min_idx\tstatement"
+			],
+			[
+				"el",
+				"elements\tstatement"
+			],
+			[
+				"areas",
+				"areas_points\tstatement"
+			],
+			[
+				"count",
+				"countAreasFlatten\tfunction"
+			],
+			[
+				"are",
+				"areas_points\tstatement"
+			],
+			[
+				"sli",
+				"slices\tstatement"
+			],
+			[
+				"utf",
+				"utf-8"
+			],
+			[
+				"area",
+				"area_status\tstatement"
+			],
+			[
+				"points",
+				"points_in_radius\tstatement"
+			],
+			[
+				"max",
+				"max_time\tstatement"
+			],
+			[
+				"curr",
+				"curr_stamp\tparam"
+			],
+			[
+				"ind",
+				"indices_of_removal\tstatement"
+			],
+			[
+				"point",
+				"points_in_radius\tstatement"
+			],
+			[
+				"cos",
+				"considered_trips\tstatement"
+			],
+			[
+				"flat",
+				"flat_trips\tstatement"
+			],
+			[
+				"fla",
+				"flat_trips\tstatement"
+			],
+			[
+				"nw",
+				"new_acc\tstatement"
+			],
+			[
+				"acc",
+				"accelerometer"
+			],
+			[
+				"ac",
+				"accelerometer"
+			],
+			[
+				"play",
+				"playground_x\tstatement"
+			],
+			[
+				"slices",
+				"slices_x\tstatement"
+			],
+			[
+				"slice",
+				"slices_x\tstatement"
+			],
+			[
+				"sl",
+				"slices_y\tstatement"
+			],
+			[
+				"slic",
+				"slices_y\tstatement"
+			],
+			[
+				"ref",
+				"ref_pnt_2\tstatement"
+			],
+			[
+				"mes",
+				"measurePlayground\tfunction"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"save",
+				"saveTimeStamps\tfunction"
+			],
+			[
+				"get",
+				"getTimeStamps\tfunction"
+			],
+			[
+				"all",
+				"all_points\tstatement"
+			],
+			[
+				"rea",
+				"real_time\tstatement"
+			],
+			[
+				"file",
+				"filename\tstatement"
+			],
+			[
+				"refer",
+				"reference_distance\tstatement"
+			],
+			[
+				"inser",
+				"insertion_point\tstatement"
+			],
+			[
+				"bis",
+				"bisect_right\tfunction"
+			],
+			[
+				"name",
+				"namespace\tparam"
+			],
+			[
+				"parser",
+				"parser_namespace"
+			],
+			[
+				"wors",
+				"worst_2_std\tstatement"
+			],
+			[
+				"dis",
+				"distances_2\tstatement"
+			],
+			[
+				"distance",
+				"distances_1\tstatement"
+			],
+			[
+				"_cal",
+				"_calculatePopulationDistanceVector\tfunction"
+			],
+			[
+				"best",
+				"best_random\tstatement"
+			],
+			[
+				"epoc",
+				"epoch_counter\tstatement"
+			],
+			[
+				"fites",
+				"fitness_info\tstatement"
+			],
+			[
+				"getIn",
+				"getInputPopulationSmall"
+			],
+			[
+				"day",
+				"day_count\tstatement"
+			],
+			[
+				"scat",
+				"scatter_x\tstatement"
+			],
+			[
+				"las",
+				"last_data_extension"
+			],
+			[
+				"ext",
+				"last_data_extension"
+			],
+			[
+				"sca",
+				"scatter_x\tstatement"
+			],
+			[
+				"scatt",
+				"scatter_y\tstatement"
+			],
+			[
+				"color",
+				"coloring_enabled\tstatement"
+			],
+			[
+				"ne",
+				"neigborhood_enumerator\tstatement"
+			],
+			[
+				"u",
+				"uint8\tmodule"
+			],
+			[
+				"maks",
+				"mask_color\tstatement"
+			],
+			[
+				"re",
+				"relation_colors\tstatement"
+			],
+			[
+				"mask",
+				"mask_color\tstatement"
+			],
+			[
+				"col",
+				"colorMap\tfunction"
+			],
+			[
+				"map",
+				"map_array\tstatement"
+			],
+			[
+				"in",
+				"input_population_data_big\tstatement"
+			],
+			[
+				"gr",
+				"graphics"
+			],
+			[
+				"M",
+				"MASK_FILE\tstatement"
+			],
+			[
+				"new",
+				"neighbor_worst_2\tstatement"
+			],
+			[
+				"wor",
+				"worst_1\tstatement"
+			],
+			[
+				"counts_1",
+				"counts_1_std\tstatement"
+			],
+			[
+				"gen_",
+				"gen_fitness_copy\tstatement"
+			],
+			[
+				"gene",
+				"generation\tparam"
+			],
+			[
+				"surv",
+				"survivors\tstatement"
+			],
+			[
+				"pop",
+				"population_fitness\tstatement"
+			],
+			[
+				"nor",
+				"normalizeDistance\tfunction"
+			],
+			[
+				"input",
+				"input_population\tstatement"
+			],
+			[
+				"cal",
+				"_calculateStandardDeviation\tfunction"
+			],
+			[
+				"cli",
+				"cli_little_info\tparam"
+			],
+			[
+				"generation",
+				"generation_fitness\tstatement"
+			],
+			[
+				"surviv",
+				"survivors_fitness\tstatement"
+			],
+			[
+				"generat",
+				"generation_fitness\tparam"
+			],
+			[
+				"loc",
+				"loc_map\tstatement"
+			],
+			[
+				"sma",
+				"small_loc_map\tstatement"
+			],
+			[
+				"po",
+				"population"
+			],
+			[
+				"last",
+				"last_data\tstatement"
+			],
+			[
+				"curre",
+				"current_genome_pool\tstatement"
+			],
+			[
+				"delta",
+				"delta_y\tstatement"
+			],
+			[
+				"is",
+				"isPetriGlassFreezed"
+			],
+			[
+				"ui",
+				"ui_print_timer\tstatement"
+			],
+			[
+				"sto",
+				"stop_signal\tstatement"
+			],
+			[
+				"start",
+				"start_btn\tstatement"
+			],
+			[
+				"star",
+				"startProcess\tfunction"
+			],
+			[
+				"stop",
+				"stop_signal"
+			],
+			[
+				"prin",
+				"print_timer\tstatement"
+			],
+			[
+				"st",
+				"stop_signal\tstatement"
+			],
+			[
+				"Q",
+				"QApplication"
+			],
+			[
+				"neigh",
+				"neighborhoods"
+			],
+			[
+				"n_",
+				"n_w_2\tstatement"
+			],
+			[
+				"worst",
+				"worst_1\tstatement"
+			],
+			[
+				"n_w",
+				"n_w_2\tstatement"
+			],
+			[
+				"l_",
+				"l_neighbor_worst_2\tstatement"
+			],
+			[
+				"excha",
+				"exchange_neighbors\tstatement"
+			],
+			[
+				"ex",
+				"exchange_neighbors\tstatement"
+			],
+			[
+				"share",
+				"shared_neighbors\tstatement"
+			],
+			[
+				"nei",
+				"neighbor_worst_1\tstatement"
+			],
+			[
+				"_ca",
+				"_calculateAverageRevisions\tfunction"
+			],
+			[
+				"generati",
+				"generation_fitness"
+			],
+			[
+				"sur",
+				"survivors_fitness\tstatement"
+			],
+			[
+				"Usre",
+				"UserEntryRegulator\tmodule"
+			],
+			[
+				"dump",
+				"dump_file\tparam"
+			],
+			[
+				"E",
+				"ENTRY_RULE_EXPANSION\tstatement"
+			],
+			[
+				"conte",
+				"content_str\tstatement"
+			],
+			[
+				"sa",
+				"save_str\tstatement"
+			],
+			[
+				"set",
+				"setCurrentGeneration"
+			],
+			[
+				"per",
+				"petri_glass\tstatement"
+			],
+			[
+				"ret",
+				"ret_tuple\tparam"
+			],
+			[
+				"retr",
+				"return_val\tstatement"
+			],
+			[
+				"pre",
+				"prettify"
+			],
+			[
+				"w",
+				"_write_lock\tstatement"
+			],
+			[
+				"B",
+				"BUFFER_STATE_OPEN\tstatement"
+			],
+			[
+				"_buff",
+				"_buffer_state"
+			],
+			[
+				"_bu",
+				"_buffer_state"
+			],
+			[
+				"_",
+				"_createMutant"
+			],
+			[
+				"muta",
+				"mutants_to_generate\tstatement"
+			],
+			[
+				"nex",
+				"next_gen_base\tstatement"
+			],
+			[
+				"gen",
+				"generation_fitness_copy\tstatement"
+			],
+			[
+				"genera",
+				"generation_fitness_copy\tstatement"
+			],
+			[
+				"genr",
+				"generation_fitness\tparam"
+			],
+			[
+				"inp",
+				"input_location_map\tstatement"
+			],
+			[
+				"inpu",
+				"input_population_data_big\tstatement"
+			],
+			[
+				"calc",
+				"calculateIndividualDistance"
+			],
+			[
+				"out",
+				"output_population_size\tstatement"
+			],
+			[
+				"ComposedNatu",
+				"ComposedNaturalEvolution\tclass"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "navigator.py",
+			"settings":
+			{
+				"buffer_size": 16879,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data/raw.xml",
+			"settings":
+			{
+				"buffer_size": 73289507,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/asmateus/Documents/Uni/01_tenth_semester/ecII/mpi3.py",
+			"settings":
+			{
+				"buffer_size": 642,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 330.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"box",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"bo",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"b",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pytho",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"pdb",
+				"SublimeREPL: Python - PDB current file"
+			],
+			[
+				"python",
+				"SublimeREPL: Python"
+			],
+			[
+				"ss",
+				"Set Syntax: C"
+			],
+			[
+				"set si ",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"ssc",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 430.0
+	},
+	"console":
+	{
+		"height": 304.0,
+		"history":
+		[
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect('/home/asmateus/.local/share/anaconda/run/hiroko/anaconda.sock')",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect(/home/asmateus/.local/share/anaconda/run/hiroko/anaconda.sock)",
+			"quit()",
+			"input('hello')",
+			"import this",
+			"python",
+			"clc",
+			"clear",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/asmateus/Git/street-watchdog",
+		"/home/asmateus/Git/street-watchdog/data"
+	],
+	"file_history":
+	[
+		"/home/asmateus/Git/street-watchdog/data/result.dat",
+		"/home/asmateus/Git/street-watchdog/.gitignore",
+		"/home/asmateus/Documents/Uni/01_tenth_semester/ecII/mpi/navigator/data/distances.json",
+		"/home/asmateus/Documents/Uni/01_tenth_semester/ecII/mpi/navigator/data/timestamps.json",
+		"/home/asmateus/Documents/Uni/01_tenth_semester/ecII/mpi3.py",
+		"/home/asmateus/Documents/Uni/01_tenth_semester/ecII/mpi/navigator/navigator.py",
+		"/home/asmateus/Documents/Uni/01_tenth_semester/ecII/mpi/Raw.xml",
+		"/home/asmateus/Git/hiroko/data/sanitized/color_days.json",
+		"/home/asmateus/Git/hiroko/hiroko/core/evolvement.py",
+		"/home/asmateus/Git/hiroko/hiroko/core/representation.py",
+		"/home/asmateus/Git/hiroko/hiroko/graphics/minimal.py",
+		"/home/asmateus/Git/hiroko/hiroko/graphics/QtAutogen/minimal_autogen.py",
+		"/home/asmateus/Git/hiroko/hiroko/interface/CSVManager.py",
+		"/home/asmateus/Git/hiroko/hiroko/graphics/map.py",
+		"/home/asmateus/Git/hiroko/data/neighborhood_nodes.csv",
+		"/home/asmateus/Git/hiroko/hiroko/interface/subbuffer.py",
+		"/home/asmateus/Git/hiroko/hiroko/lib/evolvement.h",
+		"/home/asmateus/Git/hiroko/hiroko/lib/buffer.c",
+		"/home/asmateus/Git/hiroko/.gitignore",
+		"/home/asmateus/Git/hiroko/hiroko/core/ultrafast_mapping.py",
+		"/home/asmateus/Git/GT5-Test/Utils/frame_selector.py",
+		"/home/asmateus/Git/hiroko/data/sanitized/color_relations.json",
+		"/home/asmateus/Git/hiroko/data/sanitazed/color_relations.json",
+		"/home/asmateus/Git/hiroko/data/sanitazed/color_days.json",
+		"/home/asmateus/Git/hiroko/hiroko/graphics/map.python",
+		"/home/asmateus/Git/hiroko/hiroko/hiroko.py",
+		"/home/asmateus/Git/hiroko/extra/color_relations.json",
+		"/home/asmateus/Git/hiroko/data/dump/1508764965.dump",
+		"/home/asmateus/Git/hiroko/config/hiroko.json",
+		"/home/asmateus/json_test.py",
+		"/home/asmateus/holi.json",
+		"/home/asmateus/Git/hiroko/data/dump/1508754243.dump",
+		"/home/asmateus/Git/hiroko/data/dump/1508764131.dump",
+		"/home/asmateus/Git/hiroko/hiroko/interface/buffer.py",
+		"/home/asmateus/Git/GT5-Test/Final/Final.py",
+		"/home/asmateus/Git/hiroko/hiroko/core/regulator.py",
+		"/home/asmateus/Git/hiroko/hiroko/temp_2.py",
+		"/home/asmateus/Git/flight-stone/fstone/director/iomanager.py",
+		"/home/asmateus/Git/hiroko/hiroko/graphics/QtAutogen/__init__.py",
+		"/home/asmateus/Git/GT5-Test/Final/gModule/cDialogGui.py",
+		"/home/asmateus/Git/hiroko/hiroko/temp.py",
+		"/home/asmateus/Git/flight-stone/fstone/director/interface/minimal_qt.py",
+		"/home/asmateus/Git/hiroko/hiroko/graphics/__init__.py",
+		"/home/asmateus/Git/hiroko/hiroko/temp_\"",
+		"/home/asmateus/Downloads/10.1023%2FA%3A1010949931021.bib",
+		"/home/asmateus/Downloads/10.1007%2F978-0-387-35304-3_38.bib",
+		"/home/asmateus/Git/hiroko/data/dump/1508172755.dump",
+		"/home/asmateus/Git/hiroko/local/plotter.ipynb",
+		"/home/asmateus/Git/hiroko/data/old_dump/1508170361.dump",
+		"/home/asmateus/Git/flight-stone/fstone/director/representation/controllers.py",
+		"/home/asmateus/Git/flight-stone/fstone/director/utils/config.py",
+		"/home/asmateus/tempy1.py",
+		"/home/asmateus/tempy2.py",
+		"/home/asmateus/Git/hiroko/hiroko/__init__.py",
+		"/home/asmateus/Git/hiroko/hiroko/core/printer.py",
+		"/home/asmateus/Git/hiroko/hiroko/core/__init__.py",
+		"/home/asmateus/Git/hiroko/hiroko/interface/__init__.py",
+		"/home/asmateus/Git/flight-stone/fstone/config/flight-stone.json",
+		"/home/asmateus/Git/Ebay/devilebay/profiler/static/profiler/JS/login_checker.js",
+		"/home/asmateus/Git/Ebay/devilebay/profiler/static/profiler/CSS/navbar.css",
+		"/home/asmateus/Git/Ebay/devilebay/profiler/templates/profiler/index.html",
+		"/home/asmateus/Git/Ebay/devilebay/profiler/views.py",
+		"/home/asmateus/Git/Ebay/ebay.sublime-project",
+		"/home/asmateus/Git/Ebay/devilebay/profiler/helpers.py",
+		"/home/asmateus/Git/Ebay/devilebay/profiler/urls.py",
+		"/home/asmateus/Git/fics-client/ficsclient/playground/urls.py",
+		"/home/asmateus/Git/Ebay/devilebay/profiler/models.py",
+		"/home/asmateus/Git/Ebay/devilebay/devilebay/settings.py",
+		"/home/asmateus/Git/Ebay/devilebay/profiler/static/images/app",
+		"/home/asmateus/Git/fics-client/ficsclient/playground/views.py",
+		"/home/asmateus/Git/Ebay/devilebay/profiler/static/profiler/navbar.css",
+		"/home/asmateus/Git/fics-client/ficsclient/playground/static/playground/navbar.css",
+		"/home/asmateus/Git/fics-client/ficsclient/playground/templates/playground/index.html",
+		"/home/asmateus/Git/Ebay/devilebay/devilebay/urls.py",
+		"/home/asmateus/Git/fics-client/ficsclient/ficsclient/urls.py",
+		"/home/asmateus/Git/fics-client/ficsclient/playground/models.py",
+		"/home/asmateus/Git/Ebay/devilebay/profiler/apps.py",
+		"/home/asmateus/Git/Ebay/.gitignore",
+		"/home/asmateus/Git/Ebay/db/migrate/20171001055013_devise_create_users.rb",
+		"/home/asmateus/Git/VIPproject/docs/conf.py",
+		"/home/asmateus/Git/VIPproject/docs/installation.rst",
+		"/home/asmateus/Git/VIPproject/docs/theory.rst",
+		"/home/asmateus/Git/VIPproject/docs/index.rst",
+		"/home/asmateus/Git/VIPproject/docs/Makefile",
+		"/home/asmateus/Git/VIPproject/docs/cmp_description.rst",
+		"/home/asmateus/Git/VIPproject/docs/explorer.rst",
+		"/home/asmateus/Git/VIPproject/docs/introduction.rst",
+		"/home/asmateus/Git/VIPproject/docs/stats.rst",
+		"/home/asmateus/Git/VIPproject/docs/tutorials.rst",
+		"/home/asmateus/Git/VIPproject/.gitignore",
+		"/home/asmateus/Git/VIPproject/README.md",
+		"/home/asmateus/Git/VIPproject/docs/source/index.rst",
+		"/home/asmateus/Git/VIPproject/docs/source/conf.py",
+		"/home/asmateus/Git/vip-bci-documentation.gihub.io/index.html",
+		"/home/asmateus/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/asmateus/Git/flight-stone/fstone/director/interface/lang.py",
+		"/home/asmateus/Git/flight-stone/fstone/director/interface/devices.py",
+		"/home/asmateus/Git/flight-stone/fstone/director/interface/custom_controllers.py",
+		"/home/asmateus/Git/flight-stone/fstone/director/interface/controllers.py",
+		"/home/asmateus/Git/flight-stone/test/controller_messaging.py",
+		"/home/asmateus/Git/flight-stone/fstone/director/entities.py",
+		"/home/asmateus/Git/flight-stone/fstone/director/events/keyboard.py",
+		"/home/asmateus/Git/flight-stone/fstone/drivers/f181/f181.ino",
+		"/home/asmateus/Git/flight-stone/fstone/drivers/f181/libs/controller.h",
+		"/home/asmateus/Git/Driver_F181/Driver_HS.ino",
+		"/home/asmateus/Git/flight-stone/fstone/drivers/f181/libs/hwconfig.h",
+		"/home/asmateus/Git/flight-stone/fstone/drivers/f181/libs/core_ard.h",
+		"/home/asmateus/Git/Driver_F181/functions.h",
+		"/home/asmateus/Git/flight-stone/fstone/drivers/f181/Makefile",
+		"/home/asmateus/Git/flight-stone/fstone/drivers/f181/config_test_ard.cpp",
+		"/home/asmateus/Git/flight-stone/fstone/drivers/f181/hs_f181_driver.c",
+		"/home/asmateus/Git/flight-stone/fstone/drivers/f181",
+		"/home/asmateus/Documents/Uni/01_tenth_semester/work_fourth_week",
+		"/home/asmateus/Documents/Uni/01_tenth_semester/pi_calculation/matrix_mul.c",
+		"/home/asmateus/Git/flight-stone/extra/nrf24l01/ATtiny85/main.c",
+		"/home/asmateus/Git/flight-stone/extra/nrf24l01/ATtiny85/ardu/ardu.ino",
+		"/home/asmateus/Git/flight-stone/extra/nrf24l01/ATtiny85/ardu2/ardu2.ino",
+		"/home/asmateus/Git/flight-stone/extra/local_tests/testing_serial/testing_serial.ino",
+		"/home/asmateus/Git/flight-stone/fstone/director/events/__init__.py",
+		"/home/asmateus/Git/flight-stone/test/path_appending.py",
+		"/home/asmateus/Git/flight-stone/test/__init__.py",
+		"/home/asmateus/Git/flight-stone/flight-stone/director/interface/lang.py",
+		"/home/asmateus/Git/flight-stone/flight-stone/__init__.py",
+		"/home/asmateus/Git/flight-stone/test/main.cpp",
+		"/home/asmateus/Git/flight-stone/flight-stone/director/iomanager.py",
+		"/home/asmateus/Git/flight-stone/flight-stone/director/interface/devices.py",
+		"/home/asmateus/Git/flight-stone/flight-stone/director/interface/controllers.py",
+		"/home/asmateus/Git/flight-stone/flight-stone/director/director.py"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+			"/home/asmateus/Git/skeltrack",
+			"/home/asmateus/Git/PySkeltrack",
+			"/home/asmateus/Git/PySkeltrack/pyskeltrack"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"data",
+			"indices_of_removal",
+			"considered_trips",
+			"positions",
+			"slices",
+			"nodes",
+			".latitude",
+			"_lat",
+			"lat",
+			"Progress:",
+			"max",
+			"fitness_info",
+			"self.label",
+			"label",
+			"label_3",
+			"label_2",
+			"self.label_2",
+			":])",
+			"print",
+			"neighbor",
+			"\\u00d0",
+			" \"",
+			"print",
+			"generation_",
+			"pt",
+			"scatter",
+			"scatter_plot",
+			"max",
+			"self.scatter_x",
+			"    \"",
+			"np",
+			"evolution_prc",
+			"#",
+			"]",
+			"label_3",
+			"label_2",
+			"distance",
+			"label",
+			"method",
+			"    ",
+			"counts_2",
+			"counts_1",
+			"200",
+			"Thread",
+			"worst_idx2",
+			"worst_idx1",
+			"counts_idx2",
+			"counts_idx1",
+			"raw_data",
+			"IOManager",
+			"\"",
+			"generation",
+			",",
+			"i[",
+			"i",
+			"days",
+			"IOManager",
+			"\"",
+			"neighborhood_nodes",
+			"UserAddresses",
+			"CreditCards",
+			" '",
+			"'",
+			"        '",
+			"User",
+			"<br>",
+			"%",
+			"margin",
+			"%",
+			".",
+			"<br>",
+			" ",
+			"()",
+			"move",
+			"\");\n",
+			"//",
+			"()\n",
+			"thread",
+			"    ",
+			";",
+			"public static final int ",
+			"        ",
+			"SET_DEFAULT",
+			"add_auto_now",
+			"Curriculum",
+			")",
+			"t(",
+			"))",
+			" = ",
+			"5",
+			"3",
+			"5",
+			"4",
+			"A",
+			"TOK",
+			" ",
+			"[",
+			"2.\t",
+			"10. ",
+			".  ",
+			". ",
+			"--------------------------------------------------------------------------------------------------------------------------------",
+			"-------------------------------------------------------------------------------------------------------------------------------",
+			"------------------------------------------------------------------------------------------------------------------------------",
+			"Forma",
+			"node",
+			"{$",
+			"    ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"sys",
+			"CON",
+			"ACCESS_",
+			"PCK",
+			"=",
+			";",
+			"public static final int ",
+			"1143387706",
+			"\"community\"",
+			"\"2011",
+			"public static final int ",
+			"))",
+			"superior",
+			"x",
+			"#define "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "navigator.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "data/raw.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 73289507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1790,
+								1790
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/asmateus/Documents/Uni/01_tenth_semester/ecII/mpi3.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 642,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								457,
+								457
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 338.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 118.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "watchdog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
